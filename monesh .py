@@ -1,3 +1,4 @@
+maths operations:
 a = int(input("Enter a number:"))
 b = int(input("Enter a number:"))
 
@@ -8,11 +9,15 @@ print("Subtraction:", a-b)
 print("Multiplication:", a*b)
 print("Division:", a/b)
 
+string concatenation:
 
 
 a = input("Enter your first name: ")
 b = input("Enter your last name: ")
 print('Hello', a + ' ' + b + '! Welcome to the Python program.')
+
+
+Even or odd:
 
 
 
